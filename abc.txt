@@ -1,1 +1,1 @@
-this project uses mern stack along with python for development of app and implementing recommender system
+this project uses mern stack along with python for development of app and implementing recommender system.
